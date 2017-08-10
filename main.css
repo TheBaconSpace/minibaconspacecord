@@ -3,3 +3,10 @@
     color: #7289DA
     
 }
+
+.channel-members .member .member-activity {
+    font-size: 11px;
+    line-height: 13px;
+    font-weight: 400;
+    color: #E3F2FD;
+}
